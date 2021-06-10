@@ -1,7 +1,8 @@
 # Football Manager 2021 Bahasa Indonesia (Unofficial)
 
 ## Petunjuk penggunaan
-1. Buat file teks baru dan beri ekstensi .ltf (Nama file terserah)
+1. Buat file teks baru dan beri ekstensi .ltf (Nama file terserah) di 
+C:\Users\(Username)\Documents\Sports Interactive\Football Manager 2021\languages
 2. Copy isi teks dari file x00, x01, x02 secara berurutan.
 3. Masuk ke game dan pilih bahasa di preference option.
 
